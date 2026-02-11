@@ -7,9 +7,9 @@ What are its advantages? How does it give you a cutting edge as a professional i
 
 Well, let me tell you everything I know about this powerful tool!
 
-##<u>Power BI Architecture:<u/>##
+## <u>Power BI Architecture:<u/> ##
 
-####Flow of data from a messy raw data flat table to a one-page interactive dashboard.####
+#### Flow of data from a messy raw data flat table to a one-page interactive dashboard. ####
 
 Power BI comes in 4 components that allow you to use it locally or as a service on the cloud. These components are: 
 ``Power BI Desktop, Power Bi service( Cloud), Power BI Mobile, and Report Server.``
