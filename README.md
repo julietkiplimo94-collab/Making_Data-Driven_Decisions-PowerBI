@@ -7,9 +7,9 @@ What are its advantages? How does it give you a cutting edge as a professional i
 
 Well, let me tell you everything I know about this powerful tool!
 
-## <u>Power BI Architecture:<u/> ##
+##<u>Power BI Architecture:<u/>##
 
-#### Flow of data from a messy raw data flat table to a one-page interactive dashboard. ####
+####Flow of data from a messy raw data flat table to a one-page interactive dashboard.####
 
 Power BI comes in 4 components that allow you to use it locally or as a service on the cloud. These components are: 
 ``Power BI Desktop, Power Bi service( Cloud), Power BI Mobile, and Report Server.``
@@ -22,12 +22,14 @@ Power BI is very popular because of its ability to pull data from numerous sourc
 
 Data transformation is a very important step in data analysis. It is impossible to model or make sense of data that is full of formatting errors, blanks, and duplicates.
 
+![Power Query](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/avcdkzb7bhf6dw2smz34.png)
+
 - 
 ***Power Query tool*** is a built-in tool in Power BI that uses the ETL (Extract, Transform, Load) process to clean and transform a big data set before loading it for analysis. 
 
 This process entails removing duplicates, changing incorrect data types, unifying blanks or null values, and trimming extra text characters before loading the data for analysis and visualisation.
 
-**3. Data Modelling:**
+**3. Data Modelling & Analysis:**
 
 - 
 ***Relationships, Joins and Schemas***
@@ -45,8 +47,27 @@ Designing a clear and well-structured model using fact tables, dimension tables,
 ```
 totals, averages, percentages, rankings, comparisons.
 ```
+
+
+![Dax Function](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c6r592c56cgwkaxh6l43.png)
+
+
 DAX is used to build measures, calculated columns, and calculated tables that help transform raw data into meaningful insights.
 
 **4. Visualization and reporting.**
 
+![Sample Dashboard](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9ffi1phtmkygdppsjgsw.png)
 
+Power Bi visualisation and filter panes allow you to easily create numerous captivating visuals like charts, graphs, reports, and Interactive dashboards.
+
+Dashboards are a one page Interractive interface that displays Key Insights that a Business needs to make informed decisions. It is a single-screen visual summary of the most important metrics and trends needed 
+to monitor performance and make decisions. 
+
+A dashboard is not just a collection of random charts and visuals, but a carefully thought-out display of all the information that provides answers needed to key Business questions. They should be precise and accurate, giving the stakeholder a chance to filter out data using Filters and Slicers.
+
+There, now you know everything I know!
+ 
+Well, almost everything :) .....
+
+Signed
+Jules.
