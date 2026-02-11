@@ -1,4 +1,4 @@
-# Making_Data-Driven_Decisions-PowerBI
+# Making_Data-Driven_Decisions-PowerBI #
 Business Intelligence is heavily reliant on data accuracy and integrity. This article will show you how Power Bi is a tool that is easy to use and will help turn your messy data into meaningful insights.
 --------------------------------------------------------------------------------------------------------------------------
 If you are here, you are probably a data scientist or data engineer, looking for a powerful, easy-to-use business intelligence tool for analysis and visualisation, or a business owner looking to understand your business data and make insightful business decisions.
@@ -7,9 +7,9 @@ What are its advantages? How does it give you a cutting edge as a professional i
 
 Well, let me tell you everything I know about this powerful tool!
 
-##<u>Power BI Architecture:<u/>##
+## <u>Power BI Architecture:<u/> ##
 
-####Flow of data from a messy raw data flat table to a one-page interactive dashboard.####
+#### Flow of data from a messy raw data flat table to a one-page interactive dashboard. ####
 
 Power BI comes in 4 components that allow you to use it locally or as a service on the cloud. These components are: 
 ``Power BI Desktop, Power Bi service( Cloud), Power BI Mobile, and Report Server.``
@@ -48,4 +48,5 @@ totals, averages, percentages, rankings, comparisons.
 DAX is used to build measures, calculated columns, and calculated tables that help transform raw data into meaningful insights.
 
 **4. Visualization and reporting.**
+
 
